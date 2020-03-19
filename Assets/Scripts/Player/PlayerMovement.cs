@@ -10,7 +10,7 @@ public class PlayerMovement : MonoBehaviour
     float vertical;
     float moveLimiter = 0.7f;
 
-    public int runSpeed = 10;
+    public int runSpeed = 6;
 
     void Start()
     {
